@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signUpForm">Sign Up Form</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signInForm">Sign In Form</string>
+    <string name="signIn">Sign In</string>
+</resources>
