@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<CheckBoxPreference
+    android:key="newsletter"
+    android:title="Newsletter"
+    android:summary="S'abonner à la newsletter ?"
+    android:summaryOn="Vous recevrez notre newsletter"
+    android:summaryOff="Vous ne recevrez pas notre newsletter"
+    />
+</PreferenceScreen>

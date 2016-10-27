@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebSearch</string>
+    <string name="url">URL</string>
+    <string name="search">Search</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationAndSnackbar</string>
+    <string name="btn_signUp">Sign Up</string>
+</resources>

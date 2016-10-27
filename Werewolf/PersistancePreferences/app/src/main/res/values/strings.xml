@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersistancePreferences</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember me</string>
+    <string name="button_login">Login</string>
+</resources>

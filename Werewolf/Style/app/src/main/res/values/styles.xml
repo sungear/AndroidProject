@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="CustomText">
+        <!-- Customize your theme here. -->
+        <item name="android:padding">16dp</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.Large</item>
+        <item name="android:textColor">@color/colorCustom</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signUpForm">Sign Up Form</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signInForm">Sign In Form</string>
+    <string name="signIn">Sign In</string>
+    <string name="remember">Remember me</string>
+    <string name="logOut">Log Out</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersistenceButton</string>
+    <string name="text_example">Example</string>
+    <string name="button_save">Save</string>
+    <string name="button_print">Print out</string>
+    <string name="button_delete">Delete</string>
+</resources>
